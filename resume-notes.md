@@ -6,10 +6,10 @@ Programming Languages:
 - JavaScript, SQL, HTML, CSS, PHP, ColdFusion, Ruby
 
 Frameworks/Libraries
-- React, Leaflet, CreateJS, Lodash, jQuery, Backbone.js, Drupal
+- React, Leaflet, CreateJS, Lodash, jQuery, Backbone.js, Drupal, Bootstrap
 
 Tooling
-- Vim, Jekyll, Gulp, Node/npm, Markdown
+- Vim, Git, SVN, Jekyll, Gulp, Webpack, SASS, Node/npm, Markdown
 
 Databases
 - SQL Server, MySQL/MariaDB
@@ -32,6 +32,11 @@ Research Programmer/Analyst
 Project Experience
 
 Leadership
+RTI Proposal Lead
+  - Duke Launch and Scale Speedomter.  Budget, proposal text and in-person presentation.  Awarded, $250,000.
+  - FDA Labelling 
+
+Division Lead, ## of proposals, division budget and proposal text contributions
 
 Awards
 
