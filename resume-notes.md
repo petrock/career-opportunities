@@ -1,5 +1,9 @@
 # Resume text
 
+## Introductory text:
+  - 
+  - User centered design
+
 ## Skills:
 
 Programming Languages:
@@ -9,13 +13,13 @@ Frameworks/Libraries
 - React, Leaflet, CreateJS, Lodash, jQuery, Backbone.js, Drupal, Bootstrap
 
 Tooling
-- Vim, Git, SVN, Jekyll, Gulp, Webpack, SASS, Node/npm, Markdown
+- Vim, Git, SVN, Docker, Jekyll, Gulp, Webpack, SASS, Node/npm, Markdown, Yaml
 
 Databases
 - SQL Server, MySQL/MariaDB
 
 APIs
-- Algolia, Tableau
+- Algolia, Tableau, Cloudinary
 
 ## Education
 
@@ -28,8 +32,35 @@ BA, International Relations, Lehigh University, Bethlehem, PA
 Program Manager (2018 to date)
   - 4 direct reports
 
-Research Programmer/Analyst
-Project Experience
+[start title] - current title Research Programmer/Analyst III (2003 to date)
+
+
+### Select Project Experience
+
+The Exchange
+  - Studio tool
+    - Customized web badges and PDF files
+    - Cloudinary API
+    - Digital Health Award
+
+IMLS Search and Compare
+  - Algolia Search API
+  - Pure front-end application (HTML, JS, CSS) - Polymer, Webpack
+  - https://www.imls.gov/labs/search-compare/
+  - Client has awarded 11 add-on sprints
+
+RAMS?
+
+IRB Express?
+
+HIV Risk Reduction Tool
+  - Pure front-end application (HTML, JS, CSS)
+  - Build in Jekyll with extensive use of site variables to handle multiple revisions to content
+  - Cusomized content based on gender, HIV status, partners
+
+FragileX project
+
+MobileFS
 
 Leadership
 RTI Proposal Lead
@@ -37,11 +68,23 @@ RTI Proposal Lead
   - FDA Labelling 
 
 Division Lead, ## of proposals, division budget and proposal text contributions
+  - Total #
+  - [List some specifics]
 
 Awards
+  - Digital Health Award [Silver, 2017?], for The Studio Tool
+  - RTI Innovation award
+  - 4? Team awards
+  - Spot awards
 
+New Technology Committee - 2018 to date
+  - Enterprise GitHub training
+  - Innersource library organization
+  - Knowledge repository
+  - Staff survey  
+  - Lightening talks and Lunch and Learn sessions
 
-
-
-
+IRB member
+  - 20+ years expericence on both RTI and UNC IRB Committees
+  - Emphasis on data security and privacy issues
 
