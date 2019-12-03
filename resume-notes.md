@@ -29,13 +29,14 @@ BA, International Relations, Lehigh University, Bethlehem, PA
 ## Work Experience
 
 ### RTI International 2003 to date
-Program Manager (2018 to date)
-  - 4 direct reports
-
 [start title] - current title Research Programmer/Analyst III (2003 to date)
 
 
-### Select Project Experience
+### Select Leadership and Project Experience
+Program Manager (2018 to date)
+  - 4 direct reports
+  - Group emphasis on UI/UX and user-centered design
+  - Focus on mentorship and skill development, both technical and soft-skills
 
 The Exchange
   - Studio tool
@@ -62,12 +63,11 @@ FragileX project
 
 MobileFS
 
-Leadership
 RTI Proposal Lead
-  - Duke Launch and Scale Speedomter.  Budget, proposal text and in-person presentation.  Awarded, $250,000.
-  - FDA Labelling 
+  - Duke Launch and Scale Speedomter.  Budget, proposal text and in-person presentation.  Awarded, 2-years, $250,000.
+  - FDA Labelling. Budget, organization of proposal text.  Resulted in inviation to present ideas in-person at the FDA to help shape future Request for Proposals.
 
-Division Lead, ## of proposals, division budget and proposal text contributions
+Proposal Division Lead, ## of proposals, division budget and proposal text contributions
   - Total #
   - [List some specifics]
 
@@ -79,12 +79,20 @@ Awards
 
 New Technology Committee - 2018 to date
   - Enterprise GitHub training
-  - Innersource library organization
+  - Promote innersource library organization
   - Knowledge repository
   - Staff survey  
-  - Lightening talks and Lunch and Learn sessions
+  - Organize LighTening talks and Lunch and Learn sessions
 
-IRB member
+Institutional Review Board (IRB) member
   - 20+ years expericence on both RTI and UNC IRB Committees
   - Emphasis on data security and privacy issues
 
+Presentations:
+  - UNC IRB Retreat - Mobile device data security
+  - All Hands Meeting Lightening Talk - Algolia API
+  - Digital Impact Group talk - Communicating with developers (Empathy is the answer)
+
+Training:
+  - Organize Angular in-house training session
+  - Staffed GitHub "Office Hours"
